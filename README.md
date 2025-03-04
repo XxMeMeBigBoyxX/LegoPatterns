@@ -23,4 +23,4 @@ This is for LB1 for now but more games come later
 - INF (0%)
 - FPK (0%)
 - PAR (0%)
-- 
+- FNT (0%)
