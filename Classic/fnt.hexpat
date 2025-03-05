@@ -31,7 +31,7 @@ struct MainClass
   float Rows; //UNKNOWN
   float Columns; //UNKNOWN
   padding[0x3c];  
-  Position Pos1[CharacterAmmount-2];
+  Position Cords[CharacterAmmount-2];
   padding[0x14];  
   IdCorrelation Correlations[CharacterAmmount];
   Image MainImage @ DDSPointer+8;
