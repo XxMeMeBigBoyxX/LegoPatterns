@@ -3,6 +3,7 @@ Big list of .hexpat files for use in ImHex
 This is for LB1 for now but more games come later
 # Formats
 
+## Classic
 - BIK (0%)
 - BUR (0%)
 - GIZ (0%)
