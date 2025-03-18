@@ -1,6 +1,6 @@
 # LegoPatterns
 Big list of .hexpat files for use in ImHex
-This is for LB1 for now but more games come later
+This is for LB1, and LIJ2 for now but more games come later
 # Formats
 
 ## Classic
